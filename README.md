@@ -1,11 +1,11 @@
 <!-- BADGES -->
 <div align="center">
 
-# 🇫🇷 Monitor DECP
+# 🇫🇷 Monitor DECP France
 
 **Explorateur tout-en-un des marchés publics français**
 
-[![Version](https://img.shields.io/badge/version-7.2-003399?style=for-the-badge&logo=semver&logoColor=white)](https://github.com/gunout/monitor-decp-re/releases)
+[![Version](https://img.shields.io/badge/version-7.2.1-003399?style=for-the-badge&logo=semver&logoColor=white)](https://github.com/gunout/monitor-decp-france/releases)
 [![Licence](https://img.shields.io/badge/licence-MIT-00a95f?style=for-the-badge)](LICENSE)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/HTML)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
@@ -16,7 +16,7 @@
 [![DECP](https://img.shields.io/badge/DECP-2024-ffcc00?style=flat-square)](https://www.data.gouv.fr/)
 [![Achats publics](https://img.shields.io/badge/Achats-publics-E1000F?style=flat-square)](https://www.economie.gouv.fr/)
 
-[![Démo](https://img.shields.io/badge/▶%20Démo%20live-003399?style=for-the-badge)](https://gunout.github.io/monitor-decp-re/)
+[![Démo](https://img.shields.io/badge/▶%20Démo%20live-003399?style=for-the-badge)](https://gunout.github.io/monitor-decp-france/)
 [![Signaler un bug](https://img.shields.io/badge/🐛%20Bug-E1000F?style=for-the-badge)](../../issues/new?template=bug.md)
 [![Demander une fonctionnalité](https://img.shields.io/badge/💡%20Idée-00a95f?style=for-the-badge)](../../issues/new?template=feature.md)
 
@@ -111,8 +111,8 @@
 
 1. Clonez le repo :
 
-        git clone https://github.com/gunout/monitor-decp-re.git
-        cd monitor-decp-re
+        git clone https://github.com/gunout/monitor-decp-france.git
+        cd monitor-decp-france
 
 2. Servez le fichier en local (les Web Workers nécessitent HTTP) :
 
@@ -132,12 +132,12 @@
 
 ### Option 3 — Déploiement GitHub Pages
 
-1. Activez **GitHub Pages** dans _Settings → Pages → Branch: main_
+1. Activez **GitHub Pages** dans *Settings → Pages → Branch: main*
 2. Poussez vos changements :
 
         git push origin main
 
-3. Accédez à **https://gunout.github.io/monitor-decp-re/**
+3. Accédez à **https://gunout.github.io/monitor-decp-france/**
 
 ---
 
@@ -231,7 +231,7 @@
 
 ## 🏗️ Architecture
 
-    monitor-decp-re/
+    monitor-decp-france/
     ├── index.html              # Application complète (single-file)
     ├── README.md
     ├── LICENSE
@@ -467,12 +467,12 @@ Distribué sous licence **MIT**. Voir [`LICENSE`](LICENSE).
 
 ### ⭐ Si ce projet vous aide, mettez-lui une étoile !
 
-[![Stars](https://img.shields.io/github/stars/gunout/monitor-decp-re?style=social)](https://github.com/gunout/monitor-decp-re)
-[![Forks](https://img.shields.io/github/forks/gunout/monitor-decp-re?style=social)](https://github.com/gunout/monitor-decp-re/fork)
+[![Stars](https://img.shields.io/github/stars/gunout/monitor-decp-france?style=social)](https://github.com/gunout/monitor-decp-france)
+[![Forks](https://img.shields.io/github/forks/gunout/monitor-decp-france?style=social)](https://github.com/gunout/monitor-decp-france/fork)
 
 **Fait avec ❤️ pour la transparence des marchés publics**
 
-[⬆ Retour en haut](#-monitor-decp)
+[⬆ Retour en haut](#-monitor-decp-france)
 
 ---
 
@@ -481,18 +481,3 @@ Distribué sous licence **MIT**. Voir [`LICENSE`](LICENSE).
 © 2026 **Gunout** — Tous droits réservés.
 
 </div>
-
----
-
-<div align="center">
-
-### 🇫🇷 Gunout · 2026
-
-![Made in France](https://img.shields.io/badge/Made_in-France-002395?style=flat-square&labelColor=FFFFFF&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MDAgNjAwIj48cmVjdCB3aWR0aD0iOTAwIiBoZWlnaHQ9IjYwMCIgZmlsbD0iIzAwMjM5NSIvPjxyZWN0IHdpZHRoPSI5MDAiIGhlaWdodD0iNDAwIiB5PSIxMDAiIGZpbGw9IiNmZmYiLz48cmVjdCB3aWR0aD0iOTAwIiBoZWlnaHQ9IjIwMCIgeT0iNDAwIiBmaWxsPSIjZWQyOTM5Ii8+PC9zdmc+)
-![GitHub](https://img.shields.io/badge/GitHub-gunout-181717?style=flat-square&logo=github&logoColor=white)
-![Year](https://img.shields.io/badge/2026-ED2939?style=flat-square&labelColor=FFFFFF)
-
-<sub>© 2026 <strong>Gunout</strong> — Tous droits réservés.</sub>
-
-</div>
-
