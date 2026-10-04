@@ -1,0 +1,48 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-10-04",
+  "source": "https://www.data.gouv.fr/fr/datasets/donnees-essentielles-de-la-commande-publique-fichiers-consolides/",
+  "release": "https://github.com/gunout/monitor-decp-france/releases/tag/data-v1",
+  "resources": [
+    {
+      "id": "decp-2026",
+      "title": "DECP 2026",
+      "year": "2026",
+      "format": "json",
+      "url": "https://github.com/gunout/monitor-decp-france/releases/download/data-v1/decp-2026.json",
+      "filesize": 105906176
+    },
+    {
+      "id": "decp-2025",
+      "title": "DECP 2025",
+      "year": "2025",
+      "format": "json",
+      "url": "https://github.com/gunout/monitor-decp-france/releases/download/data-v1/decp-2025.json",
+      "filesize": 124780544
+    },
+    {
+      "id": "decp-2024",
+      "title": "DECP 2024",
+      "year": "2024",
+      "format": "json",
+      "url": "https://github.com/gunout/monitor-decp-france/releases/download/data-v1/decp-2024.json",
+      "filesize": 97517568
+    },
+    {
+      "id": "decp-2022",
+      "title": "DECP 2022",
+      "year": "2022",
+      "format": "json",
+      "url": "https://github.com/gunout/monitor-decp-france/releases/download/data-v1/decp-2022.json",
+      "filesize": 20971520
+    },
+    {
+      "id": "decp-2019",
+      "title": "DECP 2019",
+      "year": "2019",
+      "format": "json",
+      "url": "https://github.com/gunout/monitor-decp-france/releases/download/data-v1/decp-2019.json",
+      "filesize": 944766976
+    }
+  ]
+}
